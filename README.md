@@ -11,11 +11,9 @@ This is my first KNN Model using an numpy array as a sample dataset. The visuali
 
 <p align="center">
 Visualization <br/>
-<img src="https://i.imgur.com/296xtZ7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nrjfSMN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Code in Jupyter:  <br/>
-<img src="https://i.imgur.com/Gxa8II4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
